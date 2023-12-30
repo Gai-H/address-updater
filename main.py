@@ -1,5 +1,7 @@
 import csv
 
+# 市町村変更情報
+# https://www.post.japanpost.jp/zipcode/merge/index.html
 moved_cities = ["浜松市中区", "浜松市東区", "浜松市西区", "浜松市南区", "浜松市北区", "浜松市浜北区"]
 
 zipcode_file_path = 'KEN_ALL.CSV'
