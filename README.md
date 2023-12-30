@@ -2,7 +2,7 @@
 
 恐らく二度と使うことのない住所更新用のスクリプト
 
-`KEN_ALL.CSV` は 2023 年 12 月 31 日現在のもの [ソース]("https://www.post.japanpost.jp/zipcode/dl/kogaki-zip.html")
+`KEN_ALL.CSV` は 2023 年 12 月 31 日現在のもの [ソース](https://www.post.japanpost.jp/zipcode/dl/kogaki-zip.html)
 
 `KEN_ALL.CSV` に以下のヘッダをつけて実行する
 
